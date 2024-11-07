@@ -1,5 +1,6 @@
 # Practica 15
 
-Aquí puedes ver los resultados de la práctica 15:
+Trabajo:
 
-[Ver la práctica 15](https://s1ipm.github.io/practica-15/)
+[JUJUTSU KAISEN]([https://s1ipm.github.io/practica-15/](https://s1ipm.github.io/practica-15/practica-15.html
+))
